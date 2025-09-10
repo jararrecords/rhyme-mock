@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: RhymeSphere Mock API (Full)
+  version: "1.0.0"
+servers:
+  - url: /api/v1
+paths: {}
